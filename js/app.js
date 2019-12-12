@@ -62,8 +62,8 @@ var gApp = angular.module('gApp', []);
 			 type : false,
 			 contents: "각종 Analytics의 발달로 한결 쉬워진 데이터 분석의 시대에서 생각한 세가지 (직접 선별한 마블 캐릭터 Google 검색량 데이터를 하둡 분산 파일 시스템으로 정제할 수 있는가? 선별된 키워드의 검색량 변화를 데이터 전, 후 처리를 통해 시각화 할 수 있는가? 스프링 프레임웍 안에서 마블(MCU) 소개 웹 페이지를 구현 할 수 있는가?)를 개발 동기로 프로젝트를 진행했습니다."
 			},{
-			 path: "https://www.dropbox.com/s/",
-			 url : "kixjj63atpgesd2/presentation.mp4?dl=0", 
+			 path: "https://www.youtube.com/embed/",
+			 url : "l8_Q2m-Dapk", 
 			 title: "Personal",
 			 name: "Presentation",
              img: "personal/media.jpg",
