@@ -71,8 +71,8 @@ var gApp = angular.module('gApp', []);
 			 type : false, 
 			 contents: ""
 			},{
-			 path: "https://www.dropbox.com/s/",
-			 url : "gxst36l7il97e0c/demo1.mp4?dl=0", 
+			 path: "https://www.youtube.com/embed/",
+			 url : "sncGkvVGnIw?ecver=2", 
 			 title: "Team",
 			 name: "Demo",
              img: "team/teamdemo.jpg",    
@@ -80,8 +80,8 @@ var gApp = angular.module('gApp', []);
 			 type : true, 
 			 contents: ""
 			},{
-			 path: "https://www.dropbox.com/s/",
-			 url : "7yln4m1kn0698kt/demo2.mp4?dl=0", 
+			 path: "https://www.youtube.com/embed/",
+			 url : "4-cITT-rM6w?ecver=2", 
 			 title: "Personal",
 			 name: "Demonstration",
              img: "personal/personaldemo.jpg",
