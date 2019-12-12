@@ -72,7 +72,7 @@ var gApp = angular.module('gApp', []);
 			 contents: ""
 			},{
 			 path: "https://www.youtube.com/embed/",
-			 url : "sncGkvVGnIw?ecver=2", 
+			 url : "4-cITT-rM6w?ecver=2", 
 			 title: "Team",
 			 name: "Demo",
              img: "team/teamdemo.jpg",    
@@ -81,7 +81,7 @@ var gApp = angular.module('gApp', []);
 			 contents: ""
 			},{
 			 path: "https://www.youtube.com/embed/",
-			 url : "4-cITT-rM6w?ecver=2", 
+			 url : "sncGkvVGnIw?ecver=2", 
 			 title: "Personal",
 			 name: "Demonstration",
              img: "personal/personaldemo.jpg",
